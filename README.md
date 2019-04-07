@@ -4,7 +4,7 @@
 This repo is used to record all blacklisted players' information and proves of malicious behaviors.
 
 ### Important Information:
-This is not the official ban list. This is just a community maintained blacklist. It is possible that people get wrongly blacklisted.  
+This is not the official blacklist. This is just a community maintained blacklist. It is possible that people get wrongly blacklisted.  
 If such thing happened, please submit an issue and we will contact you. If you want to add a player into blacklist, please also submit an issue.  
 
 ### How do I know if a player is blacklisted?
