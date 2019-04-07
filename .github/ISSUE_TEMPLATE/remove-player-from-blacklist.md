@@ -1,7 +1,7 @@
 ---
 name: Remove Player from Blacklist
 about: To remove a player from blacklist
-title: ''
+title: "[DEL]"
 labels: ''
 assignees: ''
 
