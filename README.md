@@ -24,7 +24,7 @@ There are multiple behaviors considering malicious. There are also some behavior
       - A player who paid to buy an account but then **charge back**.
     + B003: Scam (HMCS MOML / Raid Items)
       - A player who went to special dungeons (currently means Cold Storage) and claimed MOML but then leave **without using his/her orb**.
-      - A player who went into special dungeons (HM/CS) that has been marked as MOML (including before using orb claimed MOML) but then **bid the loot that should be given to orb user**.
+      - A player who went into special dungeons (HM/CS) that has been marked as MOML (including before using orb claimed MOML) but then **bid the loot that should be given to the orb user**.
       - A player who went to item selling raid but **refuse to pay** the price when his/her item dropped.
       - A raid leader who claim to sell things to a buyer but after the buyer **paid** the **full price** the leader kicked the buyer without given the item.
     + C001: Account Stealer
