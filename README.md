@@ -1,4 +1,4 @@
-## Blade & Soul Blacklist Record
+## Blade & Soul Blacklist Records
 ----
 ### What is this repo?
 This repo is used to record all blacklisted players' information and proves of malicious behaviors.
