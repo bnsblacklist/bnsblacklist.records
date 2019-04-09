@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+  <form name="simpleRecord" location="record.md">
+    <field name="name" replace="name" usage="name"/>
+    <field name="time" replace="time" usage="time"/>
+    <field name="code" replace="code" usage="code"/>
+    <field name="reason" replace="reason" usage="reason"/>
+    <field name="proof" replace="proof" usage="proof"/>
+  </form>
+</template>
